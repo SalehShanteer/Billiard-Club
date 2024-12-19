@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\Billiard Club\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F86F337A-B9F0-4A24-A55F-CD22EA561B28}|Billiard Club.csproj|c:\\users\\saleh\\desktop\\programming\\projects\\billiard club\\billiard_club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F86F337A-B9F0-4A24-A55F-CD22EA561B28}|Billiard Club.csproj|solutionrelative:billiard_club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F86F337A-B9F0-4A24-A55F-CD22EA561B28}|Billiard Club.csproj|C:\\Users\\saleh\\Desktop\\Programming\\Projects\\Billiard Club\\billiard_club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F86F337A-B9F0-4A24-A55F-CD22EA561B28}|Billiard Club.csproj|solutionrelative:billiard_club.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Billiard_Club.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\Billiard Club\\Billiard_Club.cs",
+              "RelativeDocumentMoniker": "Billiard_Club.cs",
+              "ToolTip": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\Billiard Club\\Billiard_Club.cs [Design]",
+              "RelativeToolTip": "Billiard_Club.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T13:09:28.552Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Billiard_Club.cs",
+              "DocumentMoniker": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\Billiard Club\\Billiard_Club.cs",
+              "RelativeDocumentMoniker": "Billiard_Club.cs",
+              "ToolTip": "C:\\Users\\saleh\\Desktop\\Programming\\Projects\\Billiard Club\\Billiard_Club.cs",
+              "RelativeToolTip": "Billiard_Club.cs",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAwwBwBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T16:45:31.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
